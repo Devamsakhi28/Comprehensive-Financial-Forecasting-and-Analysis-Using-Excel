@@ -34,8 +34,24 @@ Features:
 
 
 
-Forecasting Assumptions: Key metrics and inputs driving the forecasts.
-Profit and Loss Statements: Detailed monthly and annual P&L reports.
-Cash Flow Forecasts: Projections of cash inflows and outflows.
-Dynamic Charts: Visual representations of financial data.
-Scenario Analysis: Testing various business scenarios.
+1)Forecasting Assumptions: Key metrics and inputs driving the forecasts.
+
+
+
+
+2)Profit and Loss Statements: Detailed monthly and annual P&L reports.
+
+
+
+
+3)Cash Flow Forecasts: Projections of cash inflows and outflows.
+
+
+
+
+4)Dynamic Charts: Visual representations of financial data.
+
+
+
+
+5)Scenario Analysis: Testing various business scenarios.
